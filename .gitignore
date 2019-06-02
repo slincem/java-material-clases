@@ -1,18 +1,22 @@
 # Compiled class file
 *.class
-
+build/
+.gradle/
+.idea/
 # Log file
 *.log
 
-# BlueJ files
-*.ctxt
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
 
 # Package Files #
 *.jar
-!zipkin-server-2.7.0-exec.jar
 *.war
 *.ear
 *.zip
