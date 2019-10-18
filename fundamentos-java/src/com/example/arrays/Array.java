@@ -48,5 +48,8 @@ public class Array {
 
         // Para conocer el tamaño del arreglo hacemos uso de su variable length
         System.out.println("El tamaño del arreglo de superheroes es: " + superheroes.length);
+
+
+        int[] a = {1, 2, 3, 4};
     }
 }

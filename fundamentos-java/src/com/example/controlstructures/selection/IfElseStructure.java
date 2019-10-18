@@ -21,7 +21,7 @@ public class IfElseStructure {
          * si dicha condición es verdadera.
          */
         if(esVerdadero) {
-            System.out.println("Está condición es verdadera");
+            System.out.println("Esta condición es verdadera");
         }
 
         /*
